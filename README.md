@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hey, I'm Aryan<br><br>🚀 A curious developer who loves turning ideas into real applications.<br><br>Currently doing an internship and working on full-stack projects while exploring modern web technologies.<br><br>🛠️ Tech I use:<br>React | Tailwind CSS | Node.js | MongoDB<br><br>📚 Learning:<br>- Data Structures & Algorithms<br>- System Design basics<br><br>⚡ Fun fact:<br>I believe in "learning by building" 💡<br><br>Let's collaborate and grow together!🔭 I’m currently working on
+## 👋 Hey, I'm Aryan<br><br>🚀 A curious developer who loves turning ideas into real applications.<br><br>Currently doing an internship and working on full-stack projects while exploring modern web technologies.<br><br>🛠️ Tech I use:<br>React | Tailwind CSS | Node.js | MongoDB<br><br>📚 Learning:<br>- Data Structures & Algorithms<br>- System Design basics<br><br>⚡ Fun fact:<br>I believe in "learning by building" 💡<br><br>Let's collaborate and grow together!
 
 
 ## 🌐 Socials:
