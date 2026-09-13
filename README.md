@@ -17,7 +17,7 @@
 - 💻 Full Stack Developer specializing in the **MERN Stack**
 - 🚀 Passionate about building scalable web applications and solving real-world problems
 - 🌱 Currently learning **System Design, Cloud Computing, AI & Generative AI**
-- 🧠 Solved **400+ DSA problems**
+- 🧠 Solved **100+ DSA problems**
 - 🤝 Open to collaborating on Open Source and Full Stack projects
 - 🎯 Aspiring Software Development Engineer (SDE)
 
