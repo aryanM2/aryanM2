@@ -112,7 +112,7 @@
 # 💻 Coding Profiles
 
 <p align="left">
-<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/u/aryanmalwa/">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
@@ -142,7 +142,7 @@
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanM2&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanM2&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
@@ -150,7 +150,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=aryanM2&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=aryanM2&theme=tokyonight&no-frame=true&column=7"/>
 </p>
 
 ---
@@ -158,7 +158,14 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/aryanM2/aryanM2/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/aryanM2/aryanM2/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/aryanM2/aryanM2/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/aryanM2/aryanM2/output/github-contribution-grid-snake.svg"
+         alt="GitHub Contribution Snake">
+  </picture>
 </p>
 
 ---
